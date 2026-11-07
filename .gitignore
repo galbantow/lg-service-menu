@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+# pairing keys - never commit these
+*_keys.json
+lg_key.json
